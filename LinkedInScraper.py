@@ -11,8 +11,8 @@ from linkedin import linkedin
 
 #Assign API key data to variables and initialize the OAuth Client (https://developer-programs.linkedin.com/documents/getting-oauth-token-python)
 
-consumer_key           = "75yxwojxsfq5ql"
-consumer_secret        = "FZwrAcpxuxSY7JVo"
+consumer_key           = " "
+consumer_secret        = " "
 consumer = oauth.Consumer(consumer_key, consumer_secret)
 client = oauth.Client(consumer)
 
